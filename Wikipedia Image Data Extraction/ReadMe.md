@@ -110,20 +110,6 @@ Area Calculation
 Largest Image Detection
 ```
 
----
-
-# 📂 Repository Structure
-
-```text
-Wikipedia-Image-Analytics/
-
-│── README.md
-│── wikipedia_image_scraper.py
-│── screenshots/
-```
-
----
-
 # 💡 Potential Applications
 
 The techniques demonstrated in this project can be applied to:
