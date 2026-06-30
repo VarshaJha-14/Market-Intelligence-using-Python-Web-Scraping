@@ -128,17 +128,6 @@ Structured Dataset
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Quote-Knowledge-Base/
-
-│── README.md
-│── quote_scraper.py
-│── screenshots/
-```
-
----
 
 # 💡 Potential Applications
 
