@@ -145,13 +145,7 @@ The generated dataset can be used to answer questions such as:
 
 # 📷 Sample Output
 
-| Title | Price | Stock |
-|--------|------:|------:|
-| A Light in the Attic | £51.77 | 22 |
-| Tipping the Velvet | £53.74 | 20 |
-| Soumission | £50.10 | 20 |
-
-*(Replace this table with a screenshot of your generated CSV or DataFrame.)*
+<img width="965" height="358" alt="image" src="https://github.com/user-attachments/assets/dd5fe54a-0e9a-47bf-bd0a-f3685ae34cfa" />
 
 ---
 
