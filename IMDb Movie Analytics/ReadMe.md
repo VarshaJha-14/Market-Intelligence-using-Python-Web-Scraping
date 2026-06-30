@@ -116,19 +116,7 @@ Analysis
 Insights
 ```
 
----
 
-# 📂 Repository Structure
-
-```text
-IMDb-Movie-Analytics/
-
-│── README.md
-│── imdb_scraper.py
-│── screenshots/
-```
-
----
 
 # 💡 Business Applications
 
